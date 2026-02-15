@@ -1,0 +1,7 @@
+numpy
+imutils
+opencv-python
+dlib-bin
+schedule
+requests
+scipy
